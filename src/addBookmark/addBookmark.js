@@ -45,7 +45,7 @@ class AddBookmark extends Component {
       body: JSON.stringify(bookmark),
       headers: {
         
-        "Authorization": "Bearer $2a$10$ahhWew5VizAnuwhYbEz7QOi1fK3udZ.m4o2kgJudYyPj/4UWGhBMW",
+        "Authorization": "Bearer $2a$10$r6W50Si6CYWFYoaT6WnIvOY01eKZKKNx9RSsBpfRpk0zh4DQ6YQCq",
         "Content-Type": "application/json"
       }
     };
